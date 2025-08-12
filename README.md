@@ -10,7 +10,7 @@ Yahui Li, Qi Sun, Chunjie Zhou, Lu Liu and Yu-Chu Tian In *Engineering Applicati
 
 ## 2.Architecture
 <p align="center">
-  <img src="./images/architecture.PNG" />
+  <img src="images/architecture.png" />
 </p>
 
 ## 3.Setup Environments
